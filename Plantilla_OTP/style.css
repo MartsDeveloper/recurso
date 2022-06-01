@@ -1,0 +1,103 @@
+.mail-complete {
+   position: relative;
+   display: inline-block;
+   text-align: center;
+}
+.mail-1-info-txt-name h3{
+   position: absolute;
+   top: 34%;
+   right: -8.3%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+}
+.mail-1-info-txt-primero p{
+   position: absolute;
+   top: 50.8%;
+   right: 79.5%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-1-info-txt-segundo p{
+   position: absolute;
+   top: 50.8%;
+   right: 66%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-1-info-txt-tercero p{
+   position: absolute;
+   top: 50.8%;
+   right: 55%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-1-info-txt-cuarto p{
+   position: absolute;
+   top: 50.8%;
+   right: 41%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-1-info-txt-quinto p{
+   position: absolute;
+   top: 50.8%;
+   right: 29%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-1-info-txt-sexto p{
+   position: absolute;
+   top: 50.8%;
+   right: 15%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-family: 'Rubik', sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+.mail-end-footer-txt-primero p{
+   position: absolute;
+   top: 80.5%;
+   left: 36.5%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-size: 12px;
+   font-family: 'Lato', sans-serif;
+   font-weight: bold;
+}
+.mail-end-footer-txt-segundo p{
+   position: absolute;
+   top: 83.2%;
+   left: 40.6%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-size: 12px;
+   font-family: 'Lato', sans-serif;
+   font-weight: bold;
+}
+.mail-end-footer-txt-tercero p{
+   position: absolute;
+   top: 86%;
+   left: 43.4%;
+   transform: translate(-50%, -50%);
+   color: #404549;
+   font-size: 12px;
+   font-family: 'Lato', sans-serif;
+   font-weight: bold;
+}
