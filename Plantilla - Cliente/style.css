@@ -1,0 +1,153 @@
+.mail-complete {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+ }
+ .mail-1-info-txt-name h3{
+    position: absolute;
+    top: 25.4%;
+    left: 40.6%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-family: 'Rubik', sans-serif;
+ }
+ .mail-2-info-txt-solicitaste p{
+    position: absolute;
+    top: 46.9%;
+    left: 21.9%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+ }
+ .mail-2-info-txt-debes-pagar p{   
+    position: absolute;
+    top: 46.9%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+ }
+ .mail-2-info-txt-tasa-de-cambio p{
+    position: absolute;
+    top: 46.9%;
+    left: 73.5%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-celular p{
+    position: absolute;
+    top: 60%;
+    left: 21.5%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-barrio p{
+    position: absolute;
+    top: 60%;
+    left: 50.7%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-email p{
+    position: absolute;
+    top: 63.2%;
+    left: 24.8%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-zona p{
+    position: absolute;
+    top: 63.2%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-ciudad p{
+    position: absolute;
+    top: 66.5%;
+    left: 22.3%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-fecha-entrega p{
+    position: absolute;
+    top: 66.5%;
+    left: 50.9%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-direccion p{
+    position: absolute;
+    top: 70%;
+    left: 23.8%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-box-footer-txt-motivo-compra p{
+    position: absolute;
+    top: 70%;
+    left: 51.9%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-end-footer-txt-primero p{
+    position: absolute;
+    top: 85.7%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-end-footer-txt-segundo p{
+    position: absolute;
+    top: 87.8%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
+ .mail-end-footer-txt-tercero p{
+    position: absolute;
+    top: 89.9%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color: #404549;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+ }
